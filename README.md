@@ -10,10 +10,3 @@
 ``` javascript
   var a = 10;
 ```
-
-
-    $ ls
-    config	id_rsa	id_rsa.pub	known_hosts
-    $ mkdir key_backup
-    $ cp id_rsa* key_backup
-    $ rm id_rsa*
