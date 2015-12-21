@@ -3,10 +3,10 @@
 	
 	require.config({
 
-		baseUrl: '/wap-hd',
+		baseUrl: '/horizontal-scrolling',
 		paths: {
-			Zepto:'/wap-hd/js/zepto.min',
-			hzScroll: '/wap-hd/js/hzScroll'
+			Zepto:'./js/zepto.min',
+			hzScroll: './js/hzScroll'
 		},
 		shim: {
 			Zepto: {exports: 'Zepto'},
