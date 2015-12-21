@@ -7,3 +7,6 @@
     }   
 
 ## js逻辑请参考源文件
+``` javascript
+  var a = 10;
+```
